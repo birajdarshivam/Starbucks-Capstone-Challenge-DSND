@@ -30,7 +30,7 @@ sklearn.model_selection (GridSearchCV)
 
 matplotlib
 
-[MEDIUM Blog](https://medium.com/@birajdarshivam11/predict-effective-offers-for-starbucks-app-users-74c68649fac7?sk=3293a9e18a06a41a220ac58b53caf862)
+[MEDIUM Blog](https://medium.com/@birajdarshivam11/starbucks-capstone-challenge-dsnd-96d6902c9e61?sk=75a8a38db696e23ac93f9c41840b8350)
 
 ![](Starbucks1.png)
 
