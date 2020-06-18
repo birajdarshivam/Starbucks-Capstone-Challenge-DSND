@@ -71,8 +71,9 @@ Here is the schema and explanation of each variable in the files:
   value - (dict of strings) - either an offer id or transaction amount depending on the record
   
 ## 3. Project Motivation :
-This is the part of Udacity Data Science capstone project. In this project I am trying to find out some answers to my questions :
-  1. What are the main drivers of an effective offer on the Starbucks app?
-  2. Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
+The goal of this project is to best determine which kind of offers to send to each customer demographics based on their response to the previously sent offers so that different machine learning models can be built to predict whether a customer will respond to an offer.
+The following steps will be taken to build our model.
+1. Clean and transform the data as needed for modeling
+2. Train a classifier which will predict customers response
 
 The objective of this project is trying to find how Starbucks customers use the app, and by using this data we want to give an offer for specific customers of their buying habits. How well is the current offers system? more importantly, to find patterns and show when and where to give the specific offer to a specific customer. For example, A user could receive a discount offer on buy 10 dollars get 2 off on Monday. The offer is valid for 10 days from receipt. If the customer accumulates at least 10 dollars in purchases during the validity period, the customer completes the offer.
